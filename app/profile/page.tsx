@@ -12,7 +12,7 @@ const SETTINGS_SECTIONS = [
     title: "Preferences",
     items: [
       { icon: "🔔", label: "Notifications",      value: "On"          },
-      { icon: "📍", label: "Location sharing",   value: "Ahmedabad"   },
+      { icon: "📍", label: "Location sharing", value: "Melbourne" },
       { icon: "◎",  label: "Event radius",       value: "10 km"       },
       { icon: "🌐", label: "Language",           value: "English"     },
     ],
